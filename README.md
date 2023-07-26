@@ -1,5 +1,8 @@
 # vue-shop
 
+# shop-mobile
+手机端项目商城开发
+
 ## Project setup
 ```
 npm install
